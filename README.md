@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hello! I'm Victor Taouil, a 26-year-old passionate about Statistics and Data analysis. Currently, I am a Statistics student at UFPR, and I am actively seeking opportunities in the field of Data Analysis.
+Hello! I'm Victor Taouil, a 27-year-old passionate about Statistics and Data analysis. Currently, I am a Statistics student at UFPR, and I am actively seeking opportunities in the field of Data Analysis.
 
 ## About Me
 - 🎓 Education: Bachelor's degree in Civil Engineering UFPR (2019)
