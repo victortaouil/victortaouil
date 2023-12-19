@@ -7,7 +7,7 @@ Hello! I'm Victor Taouil, a 26-year-old passionate about Statistics and Data ana
 - 📚 Current Pursuit: Studying Statistics at UFPR
 - 💼 Interests: Data Analysis, Statistics, Sports
 - 🌱 Currently Learning: Data Science, Python, SQL
-- 💻 Skills: Python, SQL, PowerBI, Tableau, MySQL, PostgrSQL, GCP, Git
+- 💻 Skills: Python, SQL, PowerBI, MySQL, PostgreSQL, GCP, Git
 - 📝 Writing for: [Pippoca](https://www.pippoca.com/)
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-taouil/)
 
